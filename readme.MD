@@ -9,3 +9,9 @@
 * Dosa Flour 
 * 2 eggs
 * karam
+
+# Special Dosa 
+* Dosa Batter
+* Bombai Chutney
+* Podi
+* Oil
